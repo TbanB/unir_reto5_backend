@@ -60,7 +60,12 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+<<<<<<< HEAD
             <optional>true</optional>
+=======
+            <version>1.18.30</version>
+            <scope>provided</scope>
+>>>>>>> 691d4df4ba3100a06721ebd6ec16390380ed9b2f
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
